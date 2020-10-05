@@ -1,0 +1,148 @@
+// Color:
+$dark-blue: #150f96;
+$light-blue: #01c1d6;
+$dark-light-blue: #00aac0;
+$green: #7acb00;
+$yellow: #ffb617;
+$purple: #6e27c5;
+$pink: #ff0198;
+$red: #f1352b;
+$black: #4b4e52;
+$dark-gray: #afafaf;
+$gray: #d7d7d7;
+$light-gray: #f6f7f7;
+$dark-grey: #364a60;
+$white: #ffffff;
+$light-red: #fef5f4;
+$light-blue-bg: #f6f7f7;
+$golden: #a67710;
+$light-white: #fafafa;
+// Light Color: 8.6% opacity
+$opaque-dark-blue: rgba(52, 50, 92, 0.1);
+$opaque-light-blue: rgba(1, 193, 214, 0.1);
+$opaque-dark-light-blue: rgba(0, 170, 192, 0.1);
+$opaque-green: rgba(122, 203, 0, 0.1);
+$opaque-yellow: rgba(255, 182, 23, 0.1);
+$opaque-purple: rgba(110, 39, 197, 0.1);
+$opaque-orange: rgba(255, 102, 0, 0.1);
+$opaque-pink: rgba(255, 1, 152, 0.1);
+$opaque-red: rgba(241, 53, 43, 0.1);
+$opaque-black: rgba(75, 78, 82, 0.1);
+$opaque-dark-gray: rgba(175, 175, 175, 0.1);
+$opaque-gray: rgba(215, 215, 215, 0.1);
+$opaque-light-gray: rgba(246, 247, 247, 0.1);
+$opaque-white: rgba(255, 255, 255, 0.1);
+$opaque-light-red: rgba(254, 245, 244, 0.1);
+$opaque-light-blue-bg: rgba(246, 247, 247, 0.1);
+$opaque-seagull: rgba(136, 183, 213, 0);
+$opaque-pattens-blue: rgba(194, 225, 245, 0);
+$opaque-purple-heart: rgba(110, 38, 196, 1);
+$opaque-blue: rgba(136, 183, 213, 0);
+$opaque-light-black: rgba(0, 0, 0, 0.5);
+//claims application level
+$stepbar-before: #e5e5e5;
+$shadow: #bebebe;
+$stepper-bar: #afafaf;
+$error-background: #fff5f5;
+$disable-button-background: rgba(0, 0, 0, 0.12);
+$body-light-bg: #f4f5f5;
+// Typography
+$panchshaktibb-publico: "panchshaktibb Publico",
+Georgia,
+serif;
+// CSB.COM COLOR VARIABLES
+$footer-bg: #4b4e52;
+$body-bg: #f6f7f7;
+$fb-bg: #181a93;
+$in-bg: #2173a2;
+$tw-bg: #2fabde;
+// panchshaktibb Colors:
+$panchshaktibb-blue: #150f96;
+$panchshaktibb-turquoise: #01c1d6;
+$panchshaktibb-orange: #ff6600;
+$panchshaktibb-purple: #6e27c5;
+$panchshaktibb-yellow: #ffb617;
+$panchshaktibb-green: #7acb00;
+$panchshaktibb-fuschia: #ff0198;
+$panchshaktibb-red: #f1352b;
+$panchshaktibb-mid-gray: #afafaf;
+$panchshaktibb-black: #4b4e52;
+$panchshaktibb-dark-black: #4b4e53;
+$panchshaktibb-mid-black: #4a4a4a;
+$panchshaktibb-dark-gray: #73767a;
+$panchshaktibb-light-gray: #efefef;
+$panchshaktibb-bright-gray: #f6f7f7;
+$panchshaktibb-semi-dark-gray: #707173;
+$panchshaktibb-semi-light-gray: #a4a6a9;
+$panchshaktibb-white: #ffffff;
+$panchshaktibb-grainsboro: #dcdcdc;
+$panchshaktibb-gray: #e4e4e4;
+$panchshaktibb-dark-blue: #000022;
+$panchshaktibb-lightest-gray: #dbdbdb;
+$panchshaktibb-medium-gray: #888888;
+$panchshaktibb-whisper: #ececec;
+$panchshaktibb-light-grey: #d0d0d0;
+$panchshaktibb-medium-grey: #f2f2f2;
+$panchshaktibb-green: #7acc00;
+$panchshaktibb-grayscale: #46535e;
+$panchshaktibb-golden: #a67710;
+$credit-card-field-border: #ccc;
+// TEXT COLOR:
+$text-001: #afafaf;
+//WebClaims
+$defaultText: #505357;
+$selectedBlue: #106bad;
+$claims-orange: #f8981d;
+$border-blue: #0857a1;
+$radio-text: #8e9093;
+$gray-background: #f7f7f7;
+$webClaim-dark-blue: #003a63;
+$webClaim-dark-grey: #525252;
+$text-orange: #f8981d;
+$light-gray: #e2e2e2;
+$toggle-selection: #026aaf;
+$dialog-background: #f1f8e9;
+$box-shadowColor: #e0e0e0;
+$disabledBackground: #d4d4d4;
+$greenButton: #c3cf21;
+$mailCotent: #ecf3f9;
+$light-purple: #7482bf;
+$dark-pink: #c50070;
+$turquoise: #00b1b0;
+$dark-green: #4caf50;
+$disabledText: #898e92;
+$lightBlack: #333333;
+$lightgrey: #a7bdc8;
+$orange: #f8981d;
+$link-blue: #13394e;
+$light-text-grey: #404040;
+$light-border: #d5d5d5;
+// Customer Sales
+$light-orange: #ffd195;
+$inactiveText: #d5d5d5;
+$completeBlack: #000000;
+$table-border-grey: #f0f0f0;
+$claims-orange: #f8981d;
+$claims-silver: #fab256;
+$claims-bronze: #fbcb8e;
+$off-white: #f5f5f5;
+$disabled-grey-text: #a7a7a7;
+$errorBorder: #cb4f00;
+$errorMsg: #d26000;
+$horizontal-line: #cecece;
+$webClaim-more-dark-blue: #003964;
+$header-light-blue: #095c97;
+$borderShadow: #474747;
+$dark-selectedBlue: #004370;
+$scrollGrey: #d8d8d8;
+$popupDarkGrey: #a9a9a9;
+$greenLabel: #008000;
+
+/*******
+** WEB CLAIM FONTS FAMILY
+*********/
+
+$gotham-Light: "Gotham Book Light";
+$gotham-Medium: "Gotham Book Medium";
+$gotham-Bold: "Gotham Book Bold";
+$gotham-Book: "Gotham Book";

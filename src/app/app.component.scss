@@ -1,5 +1,11 @@
+@import '../styles/colors';
 .root-container {
-    .header {}
-    .main {}
-    .footer {}
+    background: $body-light-bg;
+    position: relative;
+    max-width: 1170px;
+    min-width: 320px;
+    height: 100%;
+    @media screen and (min-width: 1171px) {
+        margin: 0 auto;
+    }
 }
