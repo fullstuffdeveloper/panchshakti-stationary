@@ -2,4 +2,25 @@
 .footer-container {
     background-color: $footer-bg;
     height: 100%;
+    width: 100%;
+    position: relative;
+    margin-bottom: 0;
+    &__row-one {
+        height: 80%;
+        border: 1px solid $gray;
+        display: flex;
+        flex-direction: row;
+        justify-content: space-around;
+        vertical-align: center;
+        align-items: center;
+    }
+    &__row-two {
+        height: 20%;
+        border: 1px solid $gray;
+        display: flex;
+        justify-content: space-around;
+        align-items: center;
+        &__column-one {}
+        &__column-two {}
+    }
 }
